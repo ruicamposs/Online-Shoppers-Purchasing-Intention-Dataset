@@ -72,3 +72,8 @@ Conversion patterns vary across platforms — consider targeting or UX adjustmen
 ---
 
 Dataset: [Online Shoppers Purchasing Intention Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
+
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/rui.campos/viz/OnlineShoppersPurchasingIntentionDataset/Dashboard)
+
+<img width="848" height="378" alt="Screenshot 2025-07-16 at 15 19 19" src="https://github.com/user-attachments/assets/d6c71edc-358f-408e-afc5-192d791065d8" />
+

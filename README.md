@@ -1,42 +1,74 @@
-# Online-Shoppers-Purchasing-Intention-Dataset
+# Online Shoppers Purchasing Intention Analysis  
+A data analytics project using SQL (BigQuery) + Tableau to explore patterns and behaviors in e-commerce sessions and conversions.
 
-Overall Conversion Rate
+---
+
+## Query 1 – Overall Conversion Rate
 
 - **Total sessions analyzed**: 12,330  
 - **Total conversions**: 1,908  
 - **Conversion rate**: **15.47%**
 
-**Insight:**  
-Roughly 1 in 6 users who visited the site completed a purchase. This will serve as the benchmark for future segment-based conversion analysis (e.g., by month, device, or visitor type).
+**Insight**:  
+Roughly 1 in 6 users who visited the site completed a purchase. This serves as the benchmark for deeper segmentation (e.g. by visitor type, month, or traffic source).
 
-Conversion rates increased significantly in the second half of the year, peaking in October and November. January and April had zero recorded sessions, possibly due to gaps in data collection or seasonal inactivity.
+---
 
-### Query 4 – Conversion by Traffic Source
+## Query 2 – Conversion by Visitor Type
+
+- **Returning Visitors**: 24.91% conversion rate  
+- **New Visitors**: 13.93%  
+- **Other**: 18.82%
+
+**Insight**:  
+Returning visitors are significantly more likely to convert, reinforcing the value of remarketing, email nurturing, and loyalty campaigns.
+
+---
+
+## Query 3 – Conversion by Month
+
+- Peak conversion in **October (25.21%)** and **November (23.91%)**
+- Early-year months (Feb–Mar) show much lower conversion rates
+- **January and April** had zero recorded sessions
+
+**Insight**:  
+Clear seasonality in conversion behavior — Q4 shows stronger purchasing intent. This can guide campaign planning and promotional timing.
+
+---
+
+## Query 4 – Conversion by Traffic Source
 
 This analysis highlights the top 10 traffic sources (by session volume) and their respective conversion rates.
 
-- Traffic Type 16 had the highest conversion rate at 33.33%, suggesting it’s a highly qualified source worth further investment.
-- Types 7 and 8 also performed strongly with 30% and 27.7%, respectively.
-- Traffic Types 14 and 11 had the lowest conversion rates, under 15.5%.
+- **Traffic Type 16**: 33.33% (top performer)
+- Types 7 and 8 also performed strongly (30% and 27.7%)
+- Types 14 and 11 had the lowest conversion rates (under 15.5%)
 
-**Next Steps**: Explore how these traffic types differ by device, browser, or session behavior to understand quality differences.
+**Next Steps**:  
+Explore how traffic types differ by device, browser, or visitor segment to uncover hidden quality drivers.
 
-### Query 5 – Conversion by Browser
+---
 
-This analysis reveals how conversion rates vary by browser type.
+## Query 5 – Conversion by Browser
 
-- **Browser 13** had the highest conversion rate at **30%**, significantly outperforming the rest.
-- Browsers 1 and 10 also showed strong performance (26.23% and 19.63%).
-- **Browser 7** had the lowest conversion rate at **12.24%**, suggesting potential UX or compatibility issues.
+- **Browser 13** leads with a 30% conversion rate
+- **Browsers 1 and 10**: 26.23% and 19.63%
+- **Browser 7** trails with just 12.24%
 
-This insight can guide QA testing, browser optimization, and cross-platform performance tuning.
+**Insight**:  
+Some browsers may be better optimized for the user journey. Poor performers may need UX or compatibility testing.
 
-### Query 6 – Conversion by Operating System
+---
 
-This visualization shows how user conversion behavior varies across operating systems.
+## Query 6 – Conversion by Operating System
 
-- **OS 8** stands out with a 21.52% conversion rate — the highest among the top 10.
-- OS 4 and OS 6 also performed well (~17.5%), while OS 3 and OS 5 converted at just over 10%.
-- These differences may point to differences in user behavior or device optimization.
+- **OS 8** had the highest conversion rate (21.52%)
+- OS 4 and 6 also performed well (~17.5%)
+- OS 3 and 5 lagged (~10%)
 
-Takeaway: Consider prioritizing UX testing and marketing targeting based on OS performance.
+**Takeaway**:  
+Conversion patterns vary across platforms — consider targeting or UX adjustments by OS type.
+
+---
+
+Dataset: [Online Shoppers Purchasing Intention Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)

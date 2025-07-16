@@ -1,6 +1,6 @@
 # Online-Shoppers-Purchasing-Intention-Dataset
 
-🎯 Overall Conversion Rate
+Overall Conversion Rate
 
 - **Total sessions analyzed**: 12,330  
 - **Total conversions**: 1,908  
@@ -11,7 +11,7 @@ Roughly 1 in 6 users who visited the site completed a purchase. This will serve 
 
 Conversion rates increased significantly in the second half of the year, peaking in October and November. January and April had zero recorded sessions, possibly due to gaps in data collection or seasonal inactivity.
 
-### 🔍 Query 4 – Conversion by Traffic Source
+### Query 4 – Conversion by Traffic Source
 
 This analysis highlights the top 10 traffic sources (by session volume) and their respective conversion rates.
 
@@ -20,3 +20,13 @@ This analysis highlights the top 10 traffic sources (by session volume) and thei
 - Traffic Types 14 and 11 had the lowest conversion rates, under 15.5%.
 
 **Next Steps**: Explore how these traffic types differ by device, browser, or session behavior to understand quality differences.
+
+### Query 5 – Conversion by Browser
+
+This analysis reveals how conversion rates vary by browser type.
+
+- **Browser 13** had the highest conversion rate at **30%**, significantly outperforming the rest.
+- Browsers 1 and 10 also showed strong performance (26.23% and 19.63%).
+- **Browser 7** had the lowest conversion rate at **12.24%**, suggesting potential UX or compatibility issues.
+
+This insight can guide QA testing, browser optimization, and cross-platform performance tuning.

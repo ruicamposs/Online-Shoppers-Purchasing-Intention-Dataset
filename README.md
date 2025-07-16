@@ -30,3 +30,13 @@ This analysis reveals how conversion rates vary by browser type.
 - **Browser 7** had the lowest conversion rate at **12.24%**, suggesting potential UX or compatibility issues.
 
 This insight can guide QA testing, browser optimization, and cross-platform performance tuning.
+
+### Query 6 – Conversion by Operating System
+
+This visualization shows how user conversion behavior varies across operating systems.
+
+- **OS 8** stands out with a 21.52% conversion rate — the highest among the top 10.
+- OS 4 and OS 6 also performed well (~17.5%), while OS 3 and OS 5 converted at just over 10%.
+- These differences may point to differences in user behavior or device optimization.
+
+Takeaway: Consider prioritizing UX testing and marketing targeting based on OS performance.

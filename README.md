@@ -24,8 +24,7 @@ Roughly 1 in 6 users who visited the site completed a purchase. This serves as t
 - **Returning Visitors**: 13.93%  
 - **Other**: 18.82%
 
-**Insight**:  
-New visitors show the highest conversion rate (24.91%), indicating that first-time users are more likely to take action immediately. This suggests the importance of strong first-touch experiences such as landing page optimization, targeted acquisition campaigns, and compelling CTAs. 
+**Insight**: 
 ---
 
 ## Query 3 – Conversion by Month

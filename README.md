@@ -46,8 +46,8 @@ Clear seasonality in conversion behavior — Q4 shows stronger purchasing intent
 This analysis highlights the top 10 traffic sources (by session volume) and their respective conversion rates.
 
 - **Traffic Type 16**: 33.33% (top performer)
-- Types 7 and 8 also performed strongly (30% and 27.7%)
-- Types 14 and 11 had the lowest conversion rates (under 15.5%)
+- Types 7 and 8 also performed strongly (30% and 27.69%)
+- Types 14 and 11 had the lowest conversion rates (under 15.50%)
 
 **Next Steps**:  
 Explore how traffic types differ by device, browser, or visitor segment to uncover hidden quality drivers.
@@ -56,8 +56,8 @@ Explore how traffic types differ by device, browser, or visitor segment to uncov
 
 ## Query 5 – Conversion by Browser
 
-- **Browser 13** leads with a 30% conversion rate
-- **Browsers 1 and 10**: 26.23% and 19.63%
+- **Browser 12** leads with a 30% conversion rate
+- **Browsers 13 and 10**: 26.23% and 19.63%
 - **Browser 7** trails with just 12.24%
 
 **Insight**:  
@@ -68,8 +68,8 @@ Some browsers may be better optimized for the user journey. Poor performers may 
 ## Query 6 – Conversion by Operating System
 
 - **OS 8** had the highest conversion rate (21.52%)
-- OS 4 and 6 also performed well (~17.5%)
-- OS 3 and 5 lagged (~10%)
+- OS 4 and 2 also performed well (~17.50%)
+- OS 6 and 3 lagged (~10%)
 
 **Takeaway**:  
 Conversion patterns vary across platforms — consider targeting or UX adjustments by OS type.

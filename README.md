@@ -20,8 +20,8 @@ Roughly 1 in 6 users who visited the site completed a purchase. This serves as t
 
 ## Query 2 – Conversion by Visitor Type
 
-- **Returning Visitors**: 24.91% conversion rate  
-- **New Visitors**: 13.93%  
+- **New Visitors**: 24.91% conversion rate  
+- **Returning Visitors**: 13.93%  
 - **Other**: 18.82%
 
 **Insight**:  

@@ -32,8 +32,8 @@ Returning visitors with a lower conversion rate (13.93%), may require improved r
 
 ## Query 3 – Conversion by Month
 
-- Peak conversion in **October (25.21%)** and **November (23.91%)**
-- Early-year months (Feb–Mar) show much lower conversion rates
+- Peak conversion in **October (20.94%)** and **November (25.35%)**
+- Early-year months (Jan–Apr) show much lower conversion rates
 - **January and April** had zero recorded sessions
 
 **Insight**:  
